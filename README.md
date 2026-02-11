@@ -19,7 +19,7 @@ I’m using this repo to:
 
 ---
 
-## 🛠 Languages Used
+##  Languages Used
 - C / C++
 - Markdown
 
