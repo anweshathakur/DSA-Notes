@@ -14,7 +14,8 @@ I’m using this repo to:
 
 - **Notes/**
   - Basics of Functions & Pointers
-  - Searching algorithms (linear , Binary)
+  - Searching algorithms (Linear , Binary)
+  - Sorting Algorthms (Bubble  , Selection , Insertion, Counting , Radix , Bucket)
 
 (More topics will be added gradually.)
 
